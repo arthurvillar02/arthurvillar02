@@ -10,7 +10,6 @@
     <p>Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo através do meu perfil aqui no Github.</p>
     <ul>
   <li> 💻 Sou um iniciante, aprendendo python. </li>
-  <li> 🏫 Estudo na PUCPR. </li>
   <li> 👦 Meus pronomes são ele/dele. </li>
   <li> ✉️ Meu email para contato é arthurvillar09@gmail.com </li>
 </ul>
